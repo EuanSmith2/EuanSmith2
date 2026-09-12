@@ -1,10 +1,20 @@
 ### Hi, I'm Euan
 
-- Incoming BSc Cybersecurity & Digital Forensics student at TU Dublin, EDMO contributor
-- Building [NZT-48](https://github.com/EuanSmith2/NZT-48) — a self-hosted personal AI system, no cloud dependency beyond a Claude Code subscription
-- Wrote [reflex](https://github.com/EuanSmith2/reflex), a toolkit for learning common web vulnerability classes
-- Build client sites through Forged Websites — see [euansmith-v3](https://github.com/EuanSmith2/euansmith-v3) for the current build
-- Dublin, Ireland
+BSc Digital Forensics & Cyber Security at TU Dublin. I work on disinformation research
+and build the tooling that makes it measurable.
+
+- **[EDMO Ireland](https://edmohub.ie)** — I build and run the automation behind the weekly
+  fact-check round-up, and do open-source research on coordinated inauthentic news networks.
+  Recent work: a 25,000-article corpus scrape and a domain-registration analysis of a
+  multi-site syndication network.
+- **[radicalmap](https://github.com/EuanSmith2/radicalmap)** — research instrument for
+  detecting, classifying and mapping extremist content networks on short-form video platforms.
+- **[reflex](https://github.com/EuanSmith2/reflex)** — Python toolkit for learning common web
+  vulnerability classes: XSS, open redirects, DOM XSS, mutation fuzzing.
+- **[NZT-48](https://github.com/EuanSmith2/NZT-48)** — self-hosted personal AI system, no cloud
+  dependency beyond a Claude Code subscription.
+
+Dublin, Ireland.
 
 ### Links
 
